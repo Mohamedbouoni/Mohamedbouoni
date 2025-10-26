@@ -7,9 +7,9 @@
 💬 I’m open to discussions about **cloud technologies, DevOps practices, and modern backend frameworks** — feel free to reach out bouonymohamed@gmail.com.  
 
 📫 Connect with me:  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@example.com) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=read-the-docs&logoColor=white)](https://your-portfolio-link.com)
+bouonymohamed@gmail.com(https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@example.com) 
+https://www.linkedin.com/in/mohamed-bouoni-257012286/(https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin) 
+https://portfolio-lilac-tau-91.vercel.app/(https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=read-the-docs&logoColor=white)](https://your-portfolio-link.com)
 
 ---
 
