@@ -9,8 +9,8 @@
 📫 Connect with me:  
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:bouonymohamed@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-bouoni-257012286/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=read-the-docs&logoColor=white)](https://portfolio-lilac-tau-91.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.https://www.linkedin.com/in/mohamed-bouony-869155411/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=read-the-docs&logoColor=white)](https://profile-pink-tau.vercel.app/)
 
 
 ---
